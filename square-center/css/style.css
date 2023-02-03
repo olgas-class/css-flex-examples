@@ -1,0 +1,26 @@
+/* RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+
+.wrapper {
+    height: 100vh;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    text-align: center;
+}
